@@ -39,7 +39,7 @@
 ###Project published at: 
 ---
 
-[Hangman](https://trrapp12-ironyard.github.io/hangman/)
+[Calculator](https://trrapp12-ironyard.github.io/calculator/)
 <br/>
 <br/>
 ###More Information:
