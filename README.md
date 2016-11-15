@@ -6,27 +6,8 @@
 <br/>
 <br/>
 
-###This is WIP.  To see the finished project go to:
+###This is WIP.  To see the finished project go to [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
 ---
-
-- [x] Correct use of functions, conditionals, loops, arrays.
-- [x] Properly sequence JavaScript statements.
-- [x] Change the DOM based on application state (win/loss, valid/invalid guess).
-- [x] Select a random word from a dictionary of words.
-- [x] Display all guesses on the user's screen so the user knows what letters he/she has already guessed.
-- [x] Display a visual indication for each letter in the word.
-- [x] Display the number of turns remaining.
-- [x] Decrement the number of turns remaining.
-- [x] Display letters guessed in the position that they are contained in the word.
-- [x] Use onclick functionality to start game.
-- [x] Integrate video and audio with certain conditions in the game (i.e. winning and losing).
-- [x] Include 
-    a. GitHub Repo url, containing at least:
-    b. index.html
-    c. One or more CSS files (e.g. css/main.css)
-    d. One or more JavaScript files (e.g. js/main.js)
-<br/>
-<br/>
 
 ###Project published at: 
 ---
