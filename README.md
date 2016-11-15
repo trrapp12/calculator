@@ -1,20 +1,12 @@
 # Calculator
 ---
 
-![Calculator screen-shot](https://cloud.githubusercontent.com/assets/11747875/20287850/5bbc3ebc-aa8c-11e6-806e-71a2a0a1b6d8.png)
+![Calculator screen-shot](https://cloud.githubusercontent.com/assets/11747875/20288798/2c4c10ec-aa93-11e6-9c56-29be46649aaa.png)
 
 <br/>
 <br/>
 
-###Rules of the Game:
----
-
-1. The app starts by choosing a random word
-2. The player can guess a single letter at a time
-3. The player has a fixed number of turns in which to guess all of the letters in the word
-4. The app should indicate when the player has won or lost
-
-###This project demonstrates the following:
+###This is WIP.  To see the finished project go to:
 ---
 
 - [x] Correct use of functions, conditionals, loops, arrays.
