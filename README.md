@@ -9,7 +9,7 @@
 ###This is WIP.  To see the finished project go to [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
 ---
 
-###Project published at: 
+###Partial project published at: 
 ---
 
 [Calculator](https://trrapp12-ironyard.github.io/calculator/)
