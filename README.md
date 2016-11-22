@@ -9,6 +9,8 @@
 ###This is the v 1.0.0. of my project.  See the refactored v. 2.0.0 at [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
 ---
 
+<br/>
+<br/>
 ###Version 1.0.0 published at: 
 ---
 
