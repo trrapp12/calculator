@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-###This is WIP.  To see the finished project go to [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
+###This is the v 1.0.0. of my project.  See the refactored v. 2.0.0 at [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
 ---
 
 ###Partial project published at: 
