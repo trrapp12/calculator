@@ -6,18 +6,18 @@
 <br/>
 <br/>
 
-###This is the v 1.0.0. of my project.  See the refactored v. 2.0.0 at [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
+### This is the v 1.0.0. of my project.  See the refactored v. 2.0.0 at [Refactored Calculator](https://github.com/trrapp12-ironyard/refactored-calculator):
 ---
 
 <br/>
 <br/>
-###Version 1.0.0 published at: 
+### Version 1.0.0 published at: 
 ---
 
 [Calculator](https://trrapp12-ironyard.github.io/calculator/)
 <br/>
 <br/>
-###More Information:
+### More Information:
 ---
 
 \**For more information see my [Portfolio] (), [Webpage](http://web-karma.org), [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12).*
