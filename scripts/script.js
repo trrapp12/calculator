@@ -1,11 +1,11 @@
 
 
 function getUserInput () {
-    let number1 = Number(prompt ("what is your first number?"));
+    let number1 = Number( prompt("what is your first number?"));
 
-    let operator = prompt ("What operation do you want to perform?");
+    let operator = prompt("What operation do you want to perform?");
 
-    let number2 = Number(prompt ("What is your second number?"));
+    let number2 = Number( prompt("What is your second number?"));
 
     return performOperation (number1, number2, operator);
   }
