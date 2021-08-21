@@ -37,8 +37,8 @@ https://github.com/trrapp12-ironyard/calculator.git
 7. Type `start index.html` to run the program from the terminal (in Windows), or `open index.html` on a Mac.
 8. The program runs from prompts displayed by the browser as dialog boxes on the page.  Due to the nature of the `window.prompt()` function, to page will not execute any more of the JavaScript until the prompt is answered.  Therefore: 
 > - if you fail to click "continue", the page won't advance
-- if you put a non-number (NaN) value in the prompt, it will return an error message. 
-- if you do not put any number in it will submit a "Null" value, and you will get an error message. 
+> - if you put a non-number (NaN) value in the prompt, it will return an error message. 
+> - if you do not put any number in it will submit a "Null" value, and you will get an error message. 
 
 
 10. Enjoy!
