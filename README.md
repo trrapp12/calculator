@@ -19,6 +19,7 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 - [x] use of `<script>` tags
 <br/>
 <br/>
+
 ### Instructions on how to launch:
 ---
 
