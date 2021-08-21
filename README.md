@@ -17,10 +17,8 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 - [x] ECMAScript 6: use of `let` as a block scope variable.
 - [x] use of index.html
 - [x] use of `<script>` tags
-
 <br/>
 <br/>
-
 ### Instructions on how to launch:
 ---
 
