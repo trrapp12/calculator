@@ -24,9 +24,9 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 ---
 
 1. Create a Folder to hold the program
-  - in the terminal type `mkdir Calculator` or whatever other name you want to call it. 
-  - navigate into the folder by typing `cd Calculator`
-  - clone the program into the Calculator folder you just created by typing: 
+>  - in the terminal type `mkdir Calculator` or whatever other name you want to call it. 
+>  - navigate into the folder by typing `cd Calculator`
+>  - clone the program into the Calculator folder you just created by typing: 
  
  ```
 https://github.com/trrapp12-ironyard/calculator.git
