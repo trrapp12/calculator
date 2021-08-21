@@ -43,6 +43,8 @@ https://github.com/trrapp12-ironyard/calculator.git
 <br/>
 <br/>
 5. The program runs from prompts displayed by the browser as dialog boxes on the page.  Due to the nature of the `window.prompt()` function, to page will not execute any more of the JavaScript until the prompt is answered.  Therefore: 
+<br/>
+<br/>
 
 > - if you fail to click "continue", the page won't advance
 > - if you put a non-number (NaN) value in the prompt, it will return an error message. 
