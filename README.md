@@ -2,9 +2,12 @@
 
 ##### Contributors: Trevor Rapp
 
+<br/>
+<br/>
+
+---
 
 ### Description:
----
 
 This is version 1.0 of a JavaScript project designed to practive the following: 
 
@@ -20,8 +23,10 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 <br/>
 <br/>
 
-### Instructions on how to launch:
 ---
+
+### Instructions on how to launch:
+
 
 1. Create a Folder to hold the program
 >  - in the terminal type `mkdir Calculator` or whatever other name you want to call it. 
@@ -57,8 +62,10 @@ https://github.com/trrapp12-ironyard/calculator.git
 <br/>
 <br/>
 
-### More Information:
 ---
+
+### More Information:
+
 
 \**For more information see my [Portfolio](https://trrapp12.github.io/Trevor-Rapp-Portfolio/), [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
