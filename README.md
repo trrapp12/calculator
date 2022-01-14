@@ -2,9 +2,6 @@
 
 ##### Contributors: Trevor Rapp
 
-<br/>
-<br/>
-
 ---
 
 ### Description:
@@ -56,7 +53,6 @@ https://github.com/trrapp12-ironyard/calculator.git
 > - if you do not put any number in it will submit a "Null" value, and you will get an error message. 
 
 
-<br/>
 <br/>
 6. Enjoy!
 <br/>
