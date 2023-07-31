@@ -2,14 +2,18 @@
 
 ### Contributors: Trevor Rapp
 
----
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+https://user-images.githubusercontent.com/11747875/257318632-5e179cf6-1be6-433e-b652-e4850bdc5a01.mov
 
 <br>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141830030-bb37c7b2-7c74-43fa-b705-779189b9f380.png)](https://trrapp12.github.io/calculator/)
 
+<br>
+<br>
+
+---
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 ---
 
