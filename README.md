@@ -31,8 +31,7 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 - [x] ECMAScript 6: use of `let` as a block scope variable.
 - [x] use of index.html
 - [x] use of `<script>` tags
-<br/>
-<br/>
+
 
 ---
 
@@ -72,6 +71,33 @@ https://github.com/trrapp12-ironyard/calculator.git
 <br/>
 <br/>
 
+---
+
+### THIS PROJECT DEMONSTRATES:
+
+🆕 CRD (create, read, delete) functionality with a firebase database
+
+🆕 deploy progressive web app to Netlify
+
+🆕 Utilizing getDatabase(), ref(), push(), onValue(), and remove() methods for firebase database
+
+🆕 Creating and importing utility functions
+
+🆕 Dynamically creating, assigning attributes, and appending nested elements in vanilla javascript
+
+🆕 Using webmanifest
+
+🆕 Converting objects to arrays
+
+🆕 Mapping through arrays
+
+🆕 String literals 
+
+🆕 Flex-box
+
+🆕 Responsive, mobile first design
+
+🆕 Utilizing git and github for CVN
 ---
 
 ### More Information:
