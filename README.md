@@ -95,9 +95,27 @@ https://github.com/trrapp12-ironyard/calculator.git
 
 ---
 
-### More Information:
+---
 
+### CHALLENGES I OVERCAME...
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+* It was a pretty straight forward bootcamp assignment, but as always it's always easy when you know the answer.  At the time the new material was new and I just had to put in time and practice learning.
 
+---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
+
+- [X] This project was a bootcamp assignment, but the work provided is all my own.
+
+---
+
+### ATTRIBUTIONS
+
+* no attributions necessary
+
+---
+
+### YOU CAN FIND ME AT:
+
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
