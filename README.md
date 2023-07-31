@@ -8,7 +8,7 @@
 
 <br>
 
-Project is not viewable as HTML.  Please see [QUICK START GUIDE](https://github.com/trrapp12/calculator/edit/master/README.md#QUCIK-START-GUIDE) section for directions on how to access.
+Project is not viewable as HTML.  Please see [QUICK START GUIDE](#quick-start-guide) section for directions on how to access.
 
 ---
 
