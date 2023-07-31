@@ -20,18 +20,7 @@ Project is not viewable as HTML.  Please see [QUICK START GUIDE](#quick-start-gu
 >
 > -- Count von Count, Sesame Street
 
-This is version 1.0 of a JavaScript project designed to practive the following: 
-
-- [x] use of an IFFE function.
-- [x] use of multiple functions to create a script.
-- [x] use of hoisting in JavaScript.
-- [x] use of parameters in functions.
-- [x] use of `prompt()` to get user input. 
-- [x] use of `===` as a strict equality operator. 
-- [x] ECMAScript 6: use of `let` as a block scope variable.
-- [x] use of index.html
-- [x] use of `<script>` tags
-
+This is version 1.0 of a JavaScript project that creates a basic calculator.
 
 ---
 
@@ -75,29 +64,26 @@ https://github.com/trrapp12-ironyard/calculator.git
 
 ### THIS PROJECT DEMONSTRATES:
 
-🆕 CRD (create, read, delete) functionality with a firebase database
+🆕 use of an IFFE function.
 
-🆕 deploy progressive web app to Netlify
+🆕 use of multiple functions to create a script.
 
-🆕 Utilizing getDatabase(), ref(), push(), onValue(), and remove() methods for firebase database
+🆕 use of hoisting in JavaScript.
 
-🆕 Creating and importing utility functions
+🆕 use of parameters in functions.
 
-🆕 Dynamically creating, assigning attributes, and appending nested elements in vanilla javascript
+🆕 use of `prompt()` to get user input. 
 
-🆕 Using webmanifest
+🆕 use of `===` as a strict equality operator. 
 
-🆕 Converting objects to arrays
+🆕 ECMAScript 6: use of `let` as a block scope variable.
 
-🆕 Mapping through arrays
+🆕 use of index.html
 
-🆕 String literals 
+🆕 use of `<script>` tags
 
 🆕 Flex-box
 
-🆕 Responsive, mobile first design
-
-🆕 Utilizing git and github for CVN
 ---
 
 ### More Information:
