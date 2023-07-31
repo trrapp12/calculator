@@ -7,8 +7,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br>
+[![View Project](https://user-images.githubusercontent.com/11747875/141830030-bb37c7b2-7c74-43fa-b705-779189b9f380.png)](https://trrapp12.github.io/calculator/)
 
-Project is not viewable as HTML.  Please see [QUICK START GUIDE](#quick-start-guide) section for directions on how to access.
 
 ---
 
