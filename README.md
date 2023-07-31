@@ -8,11 +8,17 @@
 
 <br>
 
----
+Project is not viewable as HTML.  Please see [QUICK START GUIDE](https://github.com/trrapp12/calculator/edit/master/README.md#QUCIK-START-GUIDE) section for directions on how to access.
 
 ---
 
 ### Description:
+
+> "Do you have any hobbies?"
+>
+> "I count."
+>
+> -- Count von Count, Sesame Street
 
 This is version 1.0 of a JavaScript project designed to practive the following: 
 
@@ -30,7 +36,7 @@ This is version 1.0 of a JavaScript project designed to practive the following:
 
 ---
 
-### Instructions on how to launch:
+### QUICK START GUIDE
 
 
 1. Create a Folder to hold the program
