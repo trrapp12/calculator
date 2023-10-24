@@ -1,14 +1,16 @@
 # Calculator
 
-### Contributors: Trevor Rapp
+#### Contributors: Trevor Rapp
 
-https://user-images.githubusercontent.com/11747875/257318632-5e179cf6-1be6-433e-b652-e4850bdc5a01.mov
-
-<br>
+<br/>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141830030-bb37c7b2-7c74-43fa-b705-779189b9f380.png)](https://trrapp12.github.io/calculator/)
 
+
 <br>
+
+https://user-images.githubusercontent.com/11747875/257318632-5e179cf6-1be6-433e-b652-e4850bdc5a01.mov
+
 <br>
 
 ---
@@ -21,7 +23,7 @@ https://user-images.githubusercontent.com/11747875/257318632-5e179cf6-1be6-433e-
 
 ---
 
-### Description:
+### DESCRIPTION
 
 > "Do you have any hobbies?"
 >
@@ -73,27 +75,27 @@ https://github.com/trrapp12-ironyard/calculator.git
 
 ### THIS PROJECT DEMONSTRATES:
 
-🆕 use of an IFFE function.
+- [X] use of an IFFE function.
 
-🆕 use of multiple functions to create a script.
+- [X] use of multiple functions to create a script.
 
-🆕 use of hoisting in JavaScript.
+- [X] use of hoisting in JavaScript.
 
-🆕 use of parameters in functions.
+- [X] use of parameters in functions.
 
-🆕 use of `prompt()` to get user input. 
+- [X] use of `prompt()` to get user input. 
 
-🆕 use of `===` as a strict equality operator. 
+- [X] use of `===` as a strict equality operator. 
 
-🆕 ECMAScript 6: use of `let` as a block scope variable.
+- [X] ECMAScript 6: use of `let` as a block scope variable.
 
-🆕 use of index.html
+- [X] use of index.html
 
-🆕 use of `<script>` tags
+- [X] use of `<script>` tags
 
-🆕 Flex-box
+- [X] Flex-box
 
----
+<br/>
 
 ---
 
